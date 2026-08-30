@@ -131,7 +131,7 @@ The 2030 scenarios represent simulated outcomes under specified assumptions and 
 ## Project Report
 The detailed methodology, analytical framework, assumptions, results, and limitations are documented in the project report available in the report/ directory.
 
-##Author
+## Author
 Aditi Ranjan
 BS Analytics & Sustainability, TISS
 
